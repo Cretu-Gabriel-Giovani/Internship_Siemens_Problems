@@ -11,6 +11,9 @@ namespace Problema2.Models
         public int OrderId { get; set; }
         public string CustomerName { get; set; }
 
+        private const decimal DiscountThreshold = 500m;
+        private const decimal DiscountRate = 0.10m;
+
         public List < OrderItem> Items { get; set;} = new List<OrderItem> ();
 
         public decimal GetTotal()
@@ -19,11 +22,11 @@ namespace Problema2.Models
         }
         public decimal GetFinalPrice()
         {
-            decimal total = GetTotal();
+            var total = GetTotal();
 
-            if(total > 500)
+            if(total > DiscountThreshold)
             {
-                total = total * 0.9m;
+                total = total * (1-DiscountRate);
             }
             return total;
         }

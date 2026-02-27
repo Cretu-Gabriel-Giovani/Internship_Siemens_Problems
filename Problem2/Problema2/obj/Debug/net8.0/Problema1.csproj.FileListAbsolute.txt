@@ -1,0 +1,14 @@
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfoInputs.cache
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfo.cs
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\Problema1.csproj.CoreCompileInputs.cache
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\bin\Debug\net8.0\Problema1.exe
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\bin\Debug\net8.0\Problema1.deps.json
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\bin\Debug\net8.0\Problema1.runtimeconfig.json
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\bin\Debug\net8.0\Problema1.dll
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\bin\Debug\net8.0\Problema1.pdb
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\Problema1.dll
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\refint\Problema1.dll
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\Problema1.pdb
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\Problema1.genruntimeconfig.cache
+D:\2026\Rezolvare Problema Simmens\Problema1\Problema1\obj\Debug\net8.0\ref\Problema1.dll
